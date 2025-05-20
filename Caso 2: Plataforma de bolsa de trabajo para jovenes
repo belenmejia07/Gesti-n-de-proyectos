@@ -1,0 +1,26 @@
+# Caso 2: Plataforma de Bolsa de Trabajo para Jóvenes
+## Introducción:
+Una organización sin fines de lucro desea crear una plataforma que conecte a jóvenes de entre 18 y 25 años con oportunidades de empleo, prácticas y formación técnica, especialmente para aquellos con pocas oportunidades.
+
+## Problemática:
+- Los jóvenes no saben dónde buscar trabajos adecuados a su perfil.
+- Las empresas no confían en los postulantes jóvenes sin experiencia previa.
+- Hay falta de seguimiento y medición del impacto de las oportunidades ofrecidas.
+
+## Objetivo general:
+Desarrollar una plataforma web que conecte jóvenes con oportunidades laborales y de capacitación, permitiendo a las empresas publicar vacantes y recibir postulaciones con perfiles verificados.
+
+### Objetivo especifico:
+1. Capacitar a los jovenes para que sepan donde buscar oportunidades de trabajo que se adecuen a sus capacidades
+2. Enseñar a los jovenes como presentar un buen curriculum para poder convenser a las empresas
+3. Poder demostrar la importancia de las oportunidades laborales ofrecidas
+
+## Funcionalidades sugeridas:
+- Registro de jóvenes con CV y habilidades destacadas.
+- Registro de empresas y publicación de vacantes.
+- Buscador de empleos con filtros por área, ubicación y tipo de empleo.
+- Aplicación a vacantes con seguimiento del estado.
+- Panel de administración con métricas de participación e impacto.
+- Chat interno o contacto seguro entre empresa y postulante.
+
+
